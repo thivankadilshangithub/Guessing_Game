@@ -1,7 +1,3 @@
-# Guessing Game
-# CS/2017/005
-# W.T Dilshan
-
 
 import random   # To import random number
 x = random.randint(1, 100)  # x -> random number
